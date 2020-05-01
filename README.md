@@ -10,6 +10,9 @@ GitHub komut satırını kullanırken kullanabileceğiniz yüzlerce komut vardı
 
 Şimdi GitHub kullanırken sık kullanılan bazı terimlere bakalım.
 
+[![Alt text](https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY)
+
+
 ## Sık Kullanılan GitHub Terimleri
 
 ### Repository
