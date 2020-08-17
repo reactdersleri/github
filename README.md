@@ -4,7 +4,7 @@ Bu belge, GitHub kullanımıyla ilgili giriş seviyesinde bir tanıtım amacıyl
 
 ## GitHub nedir?
 
-Git, yazılım sektöründe versiyon kontrolü amacıyla kullanılan en popüler servislerden bir tanesidir. GitHub ise bu servisin bulut versiyonudur, yani kodlarınızı uzak bir sunucuda Git sistemiyle saklamanıza yardımcı olur.
+Git,   yazılım sektöründe versiyon kontrolü amacıyla kullanılan en popüler servislerden bir tanesidir. GitHub ise bu servisin bulut versiyonudur, yani kodlarınızı uzak bir sunucuda Git sistemiyle saklamanıza yardımcı olur.
 
 GitHub komut satırını kullanırken kullanabileceğiniz yüzlerce komut vardır. Daha kapsamlı bir rehber için [şu rehbere](https://github.com/joshnh/Git-Commands) bakabilirsiniz. Daha ayrıntılı komutlar için Google'da `github commands` araması yapabilirsiniz.
 
