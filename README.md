@@ -2,6 +2,9 @@
 
 Bu belge, GitHub kullanımıyla ilgili giriş seviyesinde bir tanıtım amacıyla hazırlanmıştır.
 
+#### Diğer GitHub Videoları
+[GitHub'da son yapılan yanlış commit nasıl geri alınır?](https://www.youtube.com/watch?v=RG7dJln5y0Y)
+
 ## GitHub nedir?
 
 Git, yazılım sektöründe versiyon kontrolü amacıyla kullanılan en popüler servislerden bir tanesidir. GitHub ise bu servisin bulut versiyonudur, yani kodlarınızı uzak bir sunucuda Git sistemiyle saklamanıza yardımcı olur.
