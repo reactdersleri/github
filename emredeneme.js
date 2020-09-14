@@ -1,0 +1,2 @@
+// yeni ekleme yapılacak.
+// eğitim
