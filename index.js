@@ -1,2 +1,0 @@
-// Selam
-// Yeni branch gecildi
