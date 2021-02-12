@@ -2,6 +2,9 @@
 
 Bu belge, GitHub kullanımıyla ilgili giriş seviyesinde bir tanıtım amacıyla hazırlanmıştır.
 
+#### Diğer GitHub Videoları
+[GitHub'da son yapılan yanlış commit nasıl geri alınır?](https://www.youtube.com/watch?v=RG7dJln5y0Y)
+
 ## GitHub nedir?
 
 Git, yazılım sektöründe versiyon kontrolü amacıyla kullanılan en popüler servislerden bir tanesidir. GitHub ise bu servisin bulut versiyonudur, yani kodlarınızı uzak bir sunucuda Git sistemiyle saklamanıza yardımcı olur.
@@ -9,6 +12,9 @@ Git, yazılım sektöründe versiyon kontrolü amacıyla kullanılan en popüler
 GitHub komut satırını kullanırken kullanabileceğiniz yüzlerce komut vardır. Daha kapsamlı bir rehber için [şu rehbere](https://github.com/joshnh/Git-Commands) bakabilirsiniz. Daha ayrıntılı komutlar için Google'da `github commands` araması yapabilirsiniz.
 
 Şimdi GitHub kullanırken sık kullanılan bazı terimlere bakalım.
+
+[![Alt text](https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY)
+
 
 ## Sık Kullanılan GitHub Terimleri
 
