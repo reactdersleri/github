@@ -5,3 +5,5 @@
 
 //Eğer dosya yeşil renkteyse, dosya yeni oluşturulmuş demek. (Yanında U yazar yani untrackt:takip edilmiyor, bunu daha eklememişiz demek)
 // OLuşturulan bir dosyada değişiklik yapıldığında o da sarı görünür. (Yanında M yazar yani modified:eklenen bir dosya üzerinde değişiklik yapılmış demek)
+
+// Yeni brancha geçtik.(gitdersleri)
