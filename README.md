@@ -1,4 +1,4 @@
-# React Dersleri Github Kullanım Rehberi
+# Github Kullanım Rehberi
 
 Bu belge, GitHub kullanımıyla ilgili giriş seviyesinde bir tanıtım amacıyla hazırlanmıştır.
 
