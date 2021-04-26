@@ -1,1 +1,1 @@
-//naber kanka
+//naber kanka nasılsın
