@@ -34,7 +34,7 @@ Projeye yeni bir özellik eklenmek istendiğinde ya da bir değişiklik yapılac
 
 ### Fork
 
-Kelime anlamı: çatal, çatallanmak.
+Kelime anlamı: çatal, çatallanmak.CATALLAMAK
 
 Başka birisine ait bir repository üzerinde çalışmak istediğinizde projeyi kendi GitHub hesabınıza kopyalamak için onu fork edebilirsiniz. Fork edilen projeler, projenin aslında bir güncelleme olduğunda bu değişikliklerden etkilenmezler.
 
