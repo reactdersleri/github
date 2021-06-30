@@ -1,0 +1,1 @@
+/* Selam herkese ben emre. Github kullanmayı öğreniyorum  */
