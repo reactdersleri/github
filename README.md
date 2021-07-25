@@ -33,7 +33,7 @@ Kelime anlamı: dal, şube, ayırmak.
 Projeye yeni bir özellik eklenmek istendiğinde ya da bir değişiklik yapılacağı zaman, yeni bir branch açılır ve bütün değişiklikler bu branch üzerinde yapıldıktan sonra master branch ile birleştirilir (bkz: merge).
 
 ### Fork
-
+--
 Kelime anlamı: çatal, çatallanmak.
 
 Başka birisine ait bir repository üzerinde çalışmak istediğinizde projeyi kendi GitHub hesabınıza kopyalamak için onu fork edebilirsiniz. Fork edilen projeler, projenin aslında bir güncelleme olduğunda bu değişikliklerden etkilenmezler.
