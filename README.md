@@ -3,6 +3,7 @@
 Bu belge, GitHub kullanımıyla ilgili giriş seviyesinde bir tanıtım amacıyla hazırlanmıştır.
 
 #### Diğer GitHub Videoları
+
 [GitHub'da son yapılan yanlış commit nasıl geri alınır?](https://www.youtube.com/watch?v=RG7dJln5y0Y)
 
 ## GitHub nedir?
@@ -14,7 +15,6 @@ GitHub komut satırını kullanırken kullanabileceğiniz yüzlerce komut vardı
 Şimdi GitHub kullanırken sık kullanılan bazı terimlere bakalım.
 
 [![Alt text](https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY)
-
 
 ## Sık Kullanılan GitHub Terimleri
 
