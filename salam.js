@@ -1,2 +1,2 @@
 // Salam
-// Yeni branch gecildi
+// Yeni branch
